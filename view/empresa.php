@@ -22,7 +22,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
 
                 <div class="app-title">
                     <div>
-                        <h1><i class="fa fa-calendar"></i> Datos de mi empresa
+                        <h1><i class="fa fa-building"></i> Datos de mi empresa
                         </h1>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label class="form-text">Representante: <i class="fa fa-fw fa-asterisk text-danger"></i></label>
+                                    <label class="form-text">Representante: <i class="fa fa-info-circle text-danger"></i></label>
                                 </div>
                             </div>
                             <div class="col-md-9">
@@ -53,7 +53,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label class="form-text">Nombre de la empresa: <i class="fa fa-fw fa-asterisk text-danger"></i></label>
+                                    <label class="form-text">Nombre de la empresa: <i class="fa fa-info-circle text-danger"></i></label>
                                 </div>
                             </div>
                             <div class="col-md-9">
@@ -65,7 +65,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label class="form-text">R.U.C.: <i class="fa fa-fw fa-asterisk text-danger"></i></label>
+                                    <label class="form-text">R.U.C.: <i class="fa fa-info-circle text-danger"></i></label>
                                 </div>
                             </div>
                             <div class="col-md-9">
@@ -89,7 +89,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label class="form-text">Celular: <i class="fa fa-fw fa-asterisk text-danger"></i></label>
+                                    <label class="form-text">Celular: <i class="fa fa-info-circle text-danger"></i></label>
                                 </div>
                             </div>
                             <div class="col-md-9">
@@ -125,7 +125,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label class="form-text">Dirección: <i class="fa fa-fw fa-asterisk text-danger"></i></label>
+                                    <label class="form-text">Dirección: <i class="fa fa-info-circle text-danger"></i></label>
                                 </div>
                             </div>
                             <div class="col-md-9">
@@ -149,7 +149,7 @@ if (!isset($_SESSION["IdEmpleado"])) {
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label class="form-text text-left text-danger">Todos los campos marcados con <i class="fa fa-fw fa-asterisk text-danger"></i> son obligatorios</label>
+                                    <label class="form-text text-left text-danger">Todos los campos marcados con <i class="fa fa-info-circle text-danger"></i> son obligatorios</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
